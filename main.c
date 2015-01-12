@@ -40,7 +40,7 @@
 #include "ril.h"
 #include "hardware/qemu_pipe.h"
 
-#define LOG_TAG "RIL-OTHER"
+#define LOG_TAG "RIL-OTHER-OTHER"
 #include <utils/Log.h>
 
 static void *noopRemoveWarning( void *a ) { return a; }
