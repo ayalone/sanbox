@@ -41,7 +41,7 @@
 #include "hardware/qemu_pipe.h"
 
 
-#define LOG_TAG "RIL-OTHER-OTHER-JOSH-123"
+#define LOG_TAG "RIL-OTHER-OTHER-J"
 
 #include <utils/Log.h>
 
