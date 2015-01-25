@@ -41,7 +41,7 @@
 #include "hardware/qemu_pipe.h"
 
 
-#define LOG_TAG "RIL-OTHER-OTHER-EILON"
+#define LOG_TAG "RIL-OTHER-OTHER-EILON-EYAL"
 
 #include <utils/Log.h>
 
